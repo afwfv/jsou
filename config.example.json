@@ -1,0 +1,16 @@
+{
+  "accounts": [
+    {
+      "username": "你的学号",
+      "password": "你的密码",
+      "enabled": true
+    },
+    {
+      "username": "第二个学号",
+      "password": "第二个密码",
+      "enabled": false
+    }
+  ],
+  "max_workers": 3,
+  "log_dir": "logs"
+}
